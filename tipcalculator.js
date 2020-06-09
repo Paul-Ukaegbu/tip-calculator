@@ -1,5 +1,3 @@
-// Write your function here:
-
 const tipCalculator = (quality, total) =>{
     let qual = quality.toLowerCase()
     if(qual === 'bad'){
